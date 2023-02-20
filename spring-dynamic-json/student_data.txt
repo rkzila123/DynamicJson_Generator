@@ -1,0 +1,19 @@
+{
+  "rollNumber" : 11,
+  "firstName" : "Saurabh",
+  "lastName" : "Gupta",
+  "permanent" : false,
+  "address" : {
+    "addressLine" : "Lake Union Hill Way",
+    "city" : "Atlanta",
+    "zipCode" : 50005,
+    "state" : "GA"
+  },
+  "phoneNumbers" : [ 2233445566, 3344556677 ],
+  "cities" : [ "Dallas", "San Antonio", "Irving" ],
+  "properties" : {
+    "play" : "Badminton",
+    "interst" : "Math",
+    "age" : "34 years"
+  }
+}
